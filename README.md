@@ -1,0 +1,1 @@
+# ngx-stock-predictor
